@@ -135,7 +135,7 @@
     {
       "name": "GenshinImpact",
       "description": "CDN for Genshin Impact",
-      "domain_files": ["GenshinImpact.txt"]
+      "domain_files": ["genshinimpact.txt"]
     }
   ]
 }

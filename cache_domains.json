@@ -131,7 +131,7 @@
       "name": "xboxlive",
       "description": "CDN for Xbox Live",
       "domain_files": ["xboxlive.txt"]
-    }
+    },
     {
       "name": "GenshinImpact",
       "description": "CDN for Genshin Impact",

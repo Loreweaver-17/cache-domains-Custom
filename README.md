@@ -1,10 +1,12 @@
 ##Fork User note: This is my first time trying to add to a great work. I'm very happy with learning the comment sections and even just the syntax error that crop up. This is a hobby a past time for fun not a dedicated live guru like the guys who made this. My hope is to add some games maybe get a little credit for finding them and then spreading the wealth of how awesome this is to my family. It has helped our internet issues so much because we are at a limited bandwidth and every little bit helps.
 
 ## To use this I added these two lines to the .env file at the very end
-
+.
 CACHE_DOMAINS_REPO="https://github.com/Loreweaver-17/cache-domains-Custom/"
+-
 CACHE_DOMAINS_BRANCH="master"
-
+-
+.
 # Game Content Cache Hostnames
 
 ## Introduction
